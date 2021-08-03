@@ -3,3 +3,14 @@ label {
     flex-direction: row;
     align-items: center;
 }
+.listSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-image: url('./images/list-bg.png');
+    width: 892px;
+    margin: 20px;
+}
+.divOne{
+    margin-left: 40px;
+}
