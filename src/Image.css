@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    width: 892px;
 }
 .bodyHeader {
     display: flex;
@@ -25,8 +26,19 @@
     align-items: baseline;
     color: gray;
     margin-top: 50px;
+    margin-right: 15px;
 }
 #print img {
     height: 15px;
     padding-right: 5px;
+}
+#choco-pizza {
+    margin: 20px;
+}
+#text-section {
+    width: 920px;
+    margin-left: 20px;
+    font-family:'Times New Roman';
+    text-indent: 20px;
+    align-items: center;
 }
