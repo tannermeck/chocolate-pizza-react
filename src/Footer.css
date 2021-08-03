@@ -1,0 +1,33 @@
+.topSection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+}
+.profileText {
+    margin-left: 10px;
+    width: 490px;
+}
+.profileText h1 {
+    margin-bottom: 0px;
+}
+.profileText p {
+    margin-top: 15px;
+    padding: 10px;
+}
+.shareRecipe {
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    padding: 5px 20px;
+    margin-left: 175px;
+}
+.bottomSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bottomSection p {
+    margin: 5px;
+    color: gray;
+}
