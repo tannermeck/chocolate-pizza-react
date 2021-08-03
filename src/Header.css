@@ -31,8 +31,8 @@ header {
 .buttonList {
     display: flex;
     justify-content: right;
-    align-content: center;
     height: 20px;
+    margin-top: 30px;
 }
 header img {
     height: 100%;
